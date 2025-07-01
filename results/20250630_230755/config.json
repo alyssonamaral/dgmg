@@ -1,0 +1,13 @@
+{
+  "log_dir": "results/20250630_230755",
+  "batch_size": 1,
+  "lr": 0.0005,
+  "nepochs": 3,
+  "clip_grad": true,
+  "clip_bound": 0.25,
+  "v_min": 3,
+  "v_max": 20,
+  "n": 50,
+  "num_samples": 100,
+  "seed": 42
+}
